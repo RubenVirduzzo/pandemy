@@ -1,5 +1,3 @@
-<br/>
-
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -66,7 +64,7 @@
 
       To run the app run the following command
 
-      ```ruby
+      ```bash
       rails server
       ```
 
@@ -78,7 +76,7 @@
 
       When the app is running may you need to access the admin panel on your local machine, to do this you need to access the rails console with the following command
 
-      ```ruby
+      ```bash
       rails console
       ```
 
