@@ -103,18 +103,18 @@
 
 ## Tests
 
-  Tests could be run with:
+    Tests could be run with:
 
-    ```bash
-    rspec
-    ```
+      ```bash
+      rspec
+      ```
 
 ## Deployment
 
-  Thanks to CI, it's really easy to deploy the project to production.
+    Thanks to CI, it's really easy to deploy the project to production.
 
-  In the [#deploys](https://coverwallet.slack.com/archives/C33LQPZ7T) slack channel: 
+    In the [#deploys](https://coverwallet.slack.com/archives/C33LQPZ7T) slack channel: 
 
 
-  - If you want to view your changes: `@candi changes cw-rails-epic-adapter`
-  - For deployment, you just need to write: `@candi deploy cw-rails-epic-adapter to production`
+    - If you want to view your changes: `@candi changes cw-rails-epic-adapter`
+    - For deployment, you just need to write: `@candi deploy cw-rails-epic-adapter to production`
